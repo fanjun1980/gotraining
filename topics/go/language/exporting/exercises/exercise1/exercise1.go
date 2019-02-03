@@ -15,7 +15,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/ardanlabs/gotraining/topics/go/language/exporting/exercises/exercise1/toy"
+	"github.com/fanjun1980/gotraining/topics/go/language/exporting/exercises/exercise1/toy"
 )
 
 func main() {

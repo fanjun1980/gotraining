@@ -6,7 +6,7 @@
 package main
 
 import (
-	"github.com/ardanlabs/gotraining/topics/go/design/composition/mocking/example1/pubsub"
+	"github.com/fanjun1980/gotraining/topics/go/design/composition/mocking/example1/pubsub"
 )
 
 // publisher is an interface to allow this package to mock the pubsub

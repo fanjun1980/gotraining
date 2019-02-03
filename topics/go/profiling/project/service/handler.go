@@ -6,7 +6,7 @@ import (
 	"html/template"
 	"net/http"
 
-	"github.com/ardanlabs/gotraining/topics/go/profiling/project/search"
+	"github.com/fanjun1980/gotraining/topics/go/profiling/project/search"
 	"github.com/pborman/uuid"
 )
 

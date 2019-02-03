@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/ardanlabs/gotraining/topics/go/exercises/contributors/part2/github"
+	"github.com/fanjun1980/gotraining/topics/go/exercises/contributors/part2/github"
 )
 
 func main() {

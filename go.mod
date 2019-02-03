@@ -1,4 +1,4 @@
-module github.com/ardanlabs/gotraining
+module github.com/fanjun1980/gotraining
 
 require (
 	github.com/GeertJohan/go.rice v0.0.0-20170420135705-c02ca9a983da

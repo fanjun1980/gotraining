@@ -6,4 +6,4 @@ package counters
 
 // alertCounter is an unexported named type that
 // contains an integer counter for alerts.
-type alertCounter int
+type AlertCounter int

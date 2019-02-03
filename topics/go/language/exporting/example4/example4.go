@@ -8,7 +8,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/ardanlabs/gotraining/topics/go/language/exporting/example4/users"
+	"github.com/fanjun1980/gotraining/topics/go/language/exporting/example4/users"
 )
 
 func main() {
@@ -17,8 +17,7 @@ func main() {
 	u := users.User{
 		Name: "Chole",
 		ID:   10,
-
-		password: "xxxx",
+		Password: "xxxx",
 	}
 
 	// ./example4.go:21: unknown users.User field 'password' in struct literal

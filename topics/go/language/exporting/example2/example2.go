@@ -8,13 +8,13 @@ package main
 import (
 	"fmt"
 
-	"github.com/ardanlabs/gotraining/topics/go/language/exporting/example2/counters"
+	"github.com/fanjun1980/gotraining/topics/go/language/exporting/example2/counters"
 )
 
 func main() {
 
 	// Create a variable of the unexported type and initialize the value to 10.
-	counter := counters.alertCounter(10)
+	counter := counters.AlertCounter(10)
 
 	// ./example2.go:17: cannot refer to unexported name counters.alertCounter
 	// ./example2.go:17: undefined: counters.alertCounter

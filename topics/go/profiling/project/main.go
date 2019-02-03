@@ -10,7 +10,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/ardanlabs/gotraining/topics/go/profiling/project/service"
+	"github.com/fanjun1980/gotraining/topics/go/profiling/project/service"
 )
 
 // init is called before main. We are using init to

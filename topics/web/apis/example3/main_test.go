@@ -11,7 +11,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/ardanlabs/gotraining/topics/web/customer"
+	"github.com/fanjun1980/gotraining/topics/web/customer"
 )
 
 func TestRoot(t *testing.T) {

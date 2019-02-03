@@ -15,7 +15,7 @@ import (
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
 
-	"github.com/ardanlabs/gotraining/topics/web/customer"
+	"github.com/fanjun1980/gotraining/topics/web/customer"
 )
 
 // render contains a pointer to the templates.

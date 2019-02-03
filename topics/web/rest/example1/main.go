@@ -13,7 +13,7 @@ import (
 	"regexp"
 	"strconv"
 
-	"github.com/ardanlabs/gotraining/topics/web/customer"
+	"github.com/fanjun1980/gotraining/topics/web/customer"
 )
 
 // App handles the routing of all the incoming customer

@@ -8,7 +8,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/ardanlabs/gotraining/topics/go/language/exporting/example5/users"
+	"github.com/fanjun1980/gotraining/topics/go/language/exporting/example5/users"
 )
 
 func main() {

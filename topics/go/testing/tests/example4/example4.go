@@ -8,7 +8,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/ardanlabs/gotraining/topics/go/testing/tests/example4/handlers"
+	"github.com/fanjun1980/gotraining/topics/go/testing/tests/example4/handlers"
 )
 
 func main() {
